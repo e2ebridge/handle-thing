@@ -1,6 +1,6 @@
 {
   "name": "handle-thing",
-  "version": "1.2.5",
+  "version": "1.2.5-i6-spdy3",
   "description": "Wrap Streams2 instance into a HandleWrap",
   "main": "lib/handle.js",
   "scripts": {
